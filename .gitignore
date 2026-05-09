@@ -1,0 +1,18 @@
+# Python bytecode (cleanliness)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (keep these off GitHub!)
+venv/
+.venv/
+env/
+ENV/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit specific
+.streamlit/
+
