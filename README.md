@@ -1,4 +1,4 @@
-# Revenue Recovery & Life-Event Engine 🏦 🚀
+# CUSTOMER CHURN REVENUE RISK SYSTEM 🏦 🚀
 
 Predictive Banking Strategy Engine identifying 127 high-priority leads and $265k in Revenue at Risk. Features an ML-powered Executive Dashboard (XGBoost) with full Docker containerization. 
 
